@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Power BI \u0026 BIM Presentation Deck",
+  "description": "Presentación interactiva sobre el continuo DIKW aplicado a metodología BIM, visualización de datos y análisis de modelos 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
